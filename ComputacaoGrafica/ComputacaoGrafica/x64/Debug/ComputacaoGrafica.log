@@ -1,0 +1,4 @@
+﻿  ComputacaoGrafica.cpp
+C:\Users\erick\OneDrive\Documentos\Programas\ComputacaoGrafica\ComputacaoGrafica\ComputacaoGrafica.cpp(24,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  ComputacaoGrafica.vcxproj -> C:\Users\erick\OneDrive\Documentos\Programas\ComputacaoGrafica\x64\Debug\ComputacaoGrafica.exe
+          1 arquivo(s) copiado(s).
